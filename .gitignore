@@ -1,0 +1,9 @@
+/.settings
+/target
+/.classpath
+/.project
+/lardicore.log
+.idea
+*.iml
+/nb-configuration.xml
+/nbactions.xml
